@@ -3,8 +3,8 @@
 
 วิธีการนี้มีประโยชน์ในการศึกษาวิธีที่ผู้ใช้ ใช้คำค้น โดยนักวิจัยสามารถปรับแต่งสถานการณ์ เพื่อดูปัจจัยที่มีผลต่อคำค้น เช่น ราคา หรือเวลา ซึ่งมีผลต่อคำค้น
 
-นอกจากนี้ยังมีไฟลล์ ResearchGuideline.xlsx ยังพูดถึงแนวทางในการคิด สถานการณ์ ด้วย
+นอกจากนี้ยังมีไฟล์ ResearchGuideline.xlsx ยังพูดถึงแนวทางในการคิด สถานการณ์ ด้วย
 
-เทคโนโลยีที่ใช้
-• Front-end technology: HTML/CSS/JS/BOOTSTRAP
+เทคโนโลยีที่ใช้ \
+• Front-end technology: HTML/CSS/JS/BOOTSTRAP \
 • Survey endpoint: https://formsubmit.io/
